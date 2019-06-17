@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstm+crf-110"
+all_model_checkpoint_paths: "lstm+crf-110"
